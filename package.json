@@ -1,0 +1,31 @@
+{
+  "name": "heic-converter",
+  "version": "1.0.0",
+  "description": "HEIC to PNG",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiaswadseth/heic-convert.git"
+  },
+  "keywords": [
+    "heic",
+    "png",
+    "convert",
+    "apple",
+    "ios",
+    "ipados"
+  ],
+  "author": "Tobias Wadseth <twadseth@icloud.com> (https://tobiaswadseth.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tobiaswadseth/heic-convert/issues"
+  },
+  "homepage": "https://github.com/tobiaswadseth/heic-convert#readme",
+  "dependencies": {
+    "heic-convert": "^1.2.4"
+  }
+}
